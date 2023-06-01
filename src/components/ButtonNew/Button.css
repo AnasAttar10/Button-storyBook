@@ -1,0 +1,49 @@
+.button {
+    padding:5px; 
+    border-radius: 4px;
+    font-size: 18px;
+    cursor: pointer;
+}
+.green {
+    background-color: green;
+    color: green;
+    border:  2px solid green;
+}
+.red{
+    background-color: red;
+    color: red;
+    border: 2px solid red ;
+}
+
+.blue {
+    background-color: blue;
+    color: blue;
+    border: 2px solid blue;
+}
+
+.primary {
+    color: white ;
+}
+
+.secondry {
+    background-color: white ;
+}
+.text {
+    /* color: white; */
+    background: none ;
+    outline: none  ;
+}
+.text:hover{
+    text-decoration: underline;
+}
+
+.large{
+    height: 4.5rem;
+}
+.medium {
+    height: 3.5rem;
+    
+}
+small{
+    height: 2.5rem;
+}
